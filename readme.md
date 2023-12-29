@@ -6,8 +6,6 @@ OOBB Holder for Microsoft Surface Pro 3
 
 
 
-## corel working
-![](working_600.png) 
 
 
 
