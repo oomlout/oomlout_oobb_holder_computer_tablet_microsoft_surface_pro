@@ -1,9 +1,11 @@
-project_id: oomlout_oobb_holder_computer_tablet_microsoft_surface_pro_3
-project_name: "OOBB Holder for Microsoft Surface Pro 3"
-project_repo: github.com/oomlout/oomlout_oobb_holder_computer_tablet_microsoft_surface_pro_3
+project_id: oomlout_oobb_holder_computer_tablet_microsoft_surface_pro
+project_name: "OOBB Holder for Microsoft Surface Pro"
+project_repo: github.com/oomlout/oomlout_oobb_holder_computer_tablet_microsoft_surface_pro
 production_format:
   oolc_1_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_3:
-    file_location: source_files/oolc_1.cdr
+    file_location: source_files/oolc_1.cdr    
+  oolc_1_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_7:
+    file_location: source_files/oolc_2.cdr
   
   
   
