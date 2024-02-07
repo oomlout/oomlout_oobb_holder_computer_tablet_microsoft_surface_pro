@@ -4,9 +4,9 @@ project_repo: github.com/oomlout/oomlout_oobb_holder_computer_tablet_microsoft_s
 production_format:
   oolc_1_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_3_half:
     file_location: source_files/oolc_1.cdr
-  oolc_1_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_7_half:
+  oolc_2_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_7_half:
     file_location: source_files/oolc_2.cdr
-  oolc_1_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_full:
+  oolc_3_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_full:
     file_location: source_files/oolc_3.cdr
   
   
