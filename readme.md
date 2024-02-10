@@ -2,6 +2,18 @@
 OOBB Holder for Microsoft Surface Pro 3  
 ##notes  
 
+[![](image_600.jpg)](image.jpg)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
