@@ -7,7 +7,8 @@ OOBB Holder for Microsoft Surface Pro 3
 * x1 oobb_plate_04_01_09
 * x1 oobb_plate_03_01_09
 * x2 oobb_plate_02_01_09
-## notes  
+## notes
+  
 
 [![](image_600.jpg)](image.jpg)
 
