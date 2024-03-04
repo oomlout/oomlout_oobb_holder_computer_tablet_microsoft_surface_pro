@@ -32,3 +32,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_4_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_no_bottom
+* link: [/oolc_4_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_no_bottom](oolc_4_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_no_bottom)  
+![](oolc_4_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_no_bottom/working_300.png)  
+![](oolc_4_oobb_holder_22_7_computer_tablet_microsoft_surface_pro_no_bottom/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
