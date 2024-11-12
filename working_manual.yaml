@@ -13,18 +13,13 @@ readme_manual: |
 oobb_parts:
   - oobb_id: oobb_plate_20_01_09
     quantity: 1
-  - oobb_id: oobb_plate_18_01_09
-    quantity: 1
-  - oobb_id: oobb_plate_08_01_09  
-    quantity: 1
-  - oobb_id: oobb_plate_04_01_09
-    quantity: 1
+    note: "only include if closing bottom"
+  - oobb_id: oobb_plate_15_01_09
+    quantity: 2  
   - oobb_id: oobb_plate_03_01_09
     quantity: 1
-  - oobb_id: oobb_plate_02_01_09  
-    quantity: 2
   - oobb_id: spacer_3_mm_id_13_mm_od_5_mm_wall_thickness_3_mm_depth
+    quantity: 4
+  - oobb_id: spacer_m3_id_5_mm_od_1_mm_wall_thickness_15_mm_depth
     quantity: 2
-  - oobb_id: spacer_3_mm_id_6_mm_od_1_5_mm_wall_thickness_15_mm_depth
-    quantity: 1
 
