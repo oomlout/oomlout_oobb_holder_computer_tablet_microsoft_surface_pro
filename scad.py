@@ -142,7 +142,7 @@ def get_button_pusher(thing, **kwargs):
     pos2[1] += 2
     poss = []
     poss.append(pos1)
-    poss.append(pos2)
+    #poss.append(pos2)
     p3["pos"] = poss
     oobb_base.append_full(thing,**p3)
     
@@ -162,7 +162,7 @@ def get_button_pusher(thing, **kwargs):
     p3["type"] = "n"
     p3["shape"] = f"oobb_slot"
     p3["radius_name"] = "m6"
-    wid = 5
+    wid = 4
     p3["width"] = wid
     p3["depth"] = depth
     #p3["height"] = height
