@@ -26,7 +26,7 @@ def make_scad(**kwargs):
     # default variables
     if True:
         kwargs["size"] = "oobb"
-        kwargs["width"] = 3
+        kwargs["width"] = 2
         kwargs["height"] = 1
         kwargs["thickness"] = 8
         
@@ -90,6 +90,7 @@ def get_base(thing, **kwargs):
     p3["both_holes"] = True  
     p3["depth"] = depth
     p3["holes"] = "perimeter"
+    p3["width"] = 1
     #p3["m"] = "#"
     pos1 = copy.deepcopy(pos)         
     p3["pos"] = pos1
@@ -153,15 +154,17 @@ def get_button_pusher(thing, **kwargs):
     p3["both_holes"] = True  
     p3["depth"] = depth
     p3["holes"] = "perimeter"
+    p3["width"] = 1
     #p3["m"] = "#"
     pos1 = copy.deepcopy(pos)         
     p3["pos"] = pos1
     oobb_base.append_full(thing,**p3)
+    
     #add slot
     p3 = copy.deepcopy(kwargs)
     p3["type"] = "n"
     p3["shape"] = f"oobb_slot"
-    p3["radius_name"] = "m6"
+    p3["radius_name"] = "m3"
     wid = 4
     p3["width"] = wid
     p3["depth"] = depth
@@ -176,11 +179,11 @@ def get_button_pusher(thing, **kwargs):
     pos1[2] += depth/2
     pos11 = copy.deepcopy(pos1)
     pos12 = copy.deepcopy(pos1)
-    pos12[0] += 15
+    pos12[0] += 15/2
     pos13 = copy.deepcopy(pos1)
-    pos13[0] += -15
+    pos13[0] += -15/2
     poss = []
-    poss.append(pos11)
+    #poss.append(pos11)
     poss.append(pos12)
     poss.append(pos13)
     p3["pos"] = poss    
